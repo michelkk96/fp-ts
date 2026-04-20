@@ -75,4 +75,4 @@ import * as fp from 'fp-ts'
 
 - Browse the [API Reference](../modules) for available modules
 - Read the [Code Conventions](./code-conventions.html) to understand `fp-ts` patterns
-- Explore [Learning Resources](../learning-resources.html) for tutorials and articles
+- Explore [Learning Resources](../learning-resources) for tutorials and articles
